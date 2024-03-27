@@ -6,6 +6,9 @@ const nextConfig = {
 				hostname: 'media.istockphoto.com',
 			},
 			{
+				hostname:'depozit.uz'
+			},
+			{
 				hostname: 'uzumbank.uz',
 			},
 			{
