@@ -87,7 +87,7 @@ const Footer = () => {
 								<Link href={'/'}>Documents</Link>
 							</li>
 							<li>
-								<Link href={'/'}>License of JS "Uzum Bank"</Link>
+								<Link href={'/'}>License of JS Uzum Bank</Link>
 							</li>
 							<li>
 								<Link href={'/'}>Events</Link>
