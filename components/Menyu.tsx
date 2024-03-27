@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 
 const Menyu: React.FC = () => {
@@ -6,7 +7,7 @@ const Menyu: React.FC = () => {
 			<div className='container mx-auto border-b flex justify-between'>
 				<ul className='flex space-x-5 items-center h-[100%]'>
 					<li>
-						<img className='w-32' src='https://depozit.uz/image_uploads/banks/55/original/1f135319fd6cc7502052a2a5b74831b5_webp.webp' alt='' />
+						<Image className='w-32' src='https://depozit.uz/image_uploads/banks/55/original/1f135319fd6cc7502052a2a5b74831b5_webp.webp' alt='' />
 					</li>
 					<li className=' h-[100%]'>
 						<Link href={'/'} className={'py-11 border-b-4 border-[#7000ff]'}>
